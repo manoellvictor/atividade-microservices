@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\first-microservice",
+    "\\first-microservice\\src",
+    "\\first-microservice\\src\\test",
+    "\\first-microservice\\src\\test\\java",
+    "\\first-microservice\\src\\test\\java\\br",
+    "\\first-microservice\\src\\test\\java\\br\\edu",
+    "\\first-microservice\\src\\test\\java\\br\\edu\\uepb",
+    "\\first-microservice\\src\\test\\java\\br\\edu\\uepb\\example",
+    "\\first-microservice\\src\\test\\java\\br\\edu\\uepb\\example\\firstmicroservice"
+  ],
+  "PreviewInSolutionExplorer": false
+}
